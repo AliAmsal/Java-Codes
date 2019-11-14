@@ -1,4 +1,3 @@
-//Author:Ashad Nadeem 18660
 public class FrequencyEasy
 {	public static void main(String[]args){
 		int digit = Integer.parseInt(args[0]);
